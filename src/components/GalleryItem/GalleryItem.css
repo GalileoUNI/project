@@ -1,0 +1,15 @@
+.gallery-item {
+  border: 1px solid #ddd;
+  padding: 16px;
+  border-radius: 8px;
+  width: calc(33.333% - 32px);
+  box-sizing: border-box;
+  text-align: center;
+}
+.gallery-item h3 {
+  margin-top: 0;
+}
+.gallery-item a {
+  text-decoration: none;
+  color: inherit;
+}

@@ -1,0 +1,19 @@
+.detail-view {
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.book-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.review-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  list-style: none;
+}
